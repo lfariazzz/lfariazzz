@@ -6,7 +6,7 @@ I'm a passionate developer focused on building efficient solutions and constantl
 ---
 
 ### 🛠 My Tech Stack
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 - **Current Projects:** Educational Management Systems (OOP), Database Modeling, and Algorithm Analysis.
 - **Tools:** Git, GitHub, VS Code.
 
@@ -21,9 +21,8 @@ I'm a passionate developer focused on building efficient solutions and constantl
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- **LinkedIn:** [linkedin.com/in/levifarias](https://linkedin.com/in/levifarias)
 - **Email:** levi.farias@aluno.ufca.edu.br
-- **Strava:** [My Running Profile](https://www.strava.com/athletes/seu-id) 🏃‍♂️
 
 ---
-*“Consistência supera intensidade.”*
+*“Pois os nossos sofrimentos leves e momentâneos estão produzindo para nós uma glória eterna que pesa mais do que todos eles.”*
