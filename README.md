@@ -6,7 +6,7 @@ I'm a passionate developer focused on building efficient solutions and constantl
 ---
 
 ### 🛠 My Tech Stack
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+- **Languages:** <br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br>![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) <br>![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 - **Current Projects:** Educational Management Systems (OOP), Database Modeling, and Algorithm Analysis.
 - **Tools:** Git, GitHub, VS Code.
 
